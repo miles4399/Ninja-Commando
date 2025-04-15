@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu_new.unity
+    guid: 9666f80df011afc48b764483effde903
+  - enabled: 1
+    path: Assets/Scenes/CreditsNoWin.unity
+    guid: 3845f9278f4fbe945a0a5b2649b92c72
+  - enabled: 1
+    path: Assets/Scenes/Level-01.unity
+    guid: 3a7b556989715f140aa84092bd11ddd3
+  - enabled: 1
+    path: Assets/Scenes/Level-02.unity
+    guid: 7285f380af43b5d47ab37899efc69f50
+  - enabled: 1
+    path: Assets/Scenes/Level-03.unity
+    guid: e111373a6003faf4b976e91cd24763bb
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 7ef6d05a3de109d41828789825e0db7c
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: d13e5ebddecc19a45a1556225dcf8830
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/MainMenu.unity
+    guid: 1d70abf7c2f2f7149a022533f2c1d994
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/DebugMenu.unity
+    guid: d269f922bba15e244bbbc3724b8f3072
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Gym-Art.unity
+    guid: 7c23ba0a6380d134db4d1f1b174c7fd1
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Gym-Metrics.unity
+    guid: cf83c2dc455efb24a87e9416d88998f3
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Gym-Obstacles.unity
+    guid: 02aa8d207128c9e4283009ccc7975c3e
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Gym-Collectibles.unity
+    guid: f9ddad835074aae419e6f3f71951a05e
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Gym-EnemiesAI.unity
+    guid: 5655553213164bc428e38564247bde12
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Script prototype.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/Experimenting-with-platforming.unity
+    guid: c632ef17e037dfd4c9ec15d47fc91017
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/TransitionSampleA.unity
+    guid: bb3304c89cf1e1141b985b56e0d51a2b
+  - enabled: 0
+    path: Assets/Scenes/Scrapped/TransitionSampleB.unity
+    guid: e3ec05c1d2d08374d9c1e4514c4f0940
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

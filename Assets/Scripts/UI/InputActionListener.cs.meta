@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9bd373d5466ef694e8eee58162793e2e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _menuSelectSFX: {fileID: 6276679726479908352, guid: eee334be960a5d7498323e64542e3c8c, type: 3}
+  - _action: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

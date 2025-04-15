@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4e6d99fe655c0240878f749b28d29de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _player: {instanceID: 0}
+  - _attackPoint: {instanceID: 0}
+  - _ammoPrefab: {instanceID: 0}
+  - _leftPatrol: {instanceID: 0}
+  - _rightPatrol: {instanceID: 0}
+  - _tape: {instanceID: 0}
+  - _lasershoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
